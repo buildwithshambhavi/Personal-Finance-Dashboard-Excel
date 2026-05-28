@@ -27,7 +27,7 @@ This project transforms raw bank statement data into actionable financial insigh
 
 ---
 
-## 📂 Workbook Structure (8 Sheets)
+## 📂 Workbook Structure (9 Sheets)
 
 | # | Sheet | Purpose |
 |---|---|---|
@@ -37,27 +37,27 @@ This project transforms raw bank statement data into actionable financial insigh
 | 4 | **Income** | Salary vs Investment breakdown |
 | 5 | **Expense** | Category-wise expense analysis |
 | 6 | **Trends** | Month-wise income vs expense analysis |
-| 7 | **BarChart** | Supporting visualizations |
-| 8 | **PieChart** | Supporting visualizations |
+| 7 | **BarChart** | Bar chart visualizations |
+| 8 | **PieChart** | Pie chart visualizations |
+| 9 | **LineChart** | Line chart visualizations |
 
 ---
 ## 📸 Dashboard Previews
 
 ### Main Dashboard
-![Dashboard](Screenshots/Dashboard.png)
+![Dashboard](Personal%20Finance%20Dashboard%20Excel/Screenshots/Dashboard.png)
 
 ### Financial Overview
-![Overview](Screenshots/Overview.png)
+![Overview](Personal%20Finance%20Dashboard%20Excel/Screenshots/Overview.png)
 
 ### Income Analysis
-![Income](Screenshots/Income.png)
+![Income](Personal%20Finance%20Dashboard%20Excel/Screenshots/Income.png)
 
 ### Expense Analysis
-![Expense](Screenshots/Expense.png)
+![Expense](Personal%20Finance%20Dashboard%20Excel/Screenshots/Expense.png)
 
 ### Trends & Breakeven Analysis
-![Trends](Screenshots/Trends.png)
-
+![Trends](Personal%20Finance%20Dashboard%20Excel/Screenshots/Trends.png)
 ---
 
 ## 💡 Key Insights Delivered
